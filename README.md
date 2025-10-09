@@ -1,1 +1,0 @@
-# novorepositorio-git-e-github
